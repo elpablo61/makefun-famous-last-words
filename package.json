@@ -1,0 +1,1 @@
+{"description":"Famous Last Words at 1 Percent — one line a phone says as its battery hits 1 percent","license":"MIT","main":"main.ts","name":"makefun-famous-last-words","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
